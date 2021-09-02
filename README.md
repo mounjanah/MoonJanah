@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoonJanah
 - 👀 I’m interested in Front-End development and mobile robotic applications
 - 🌱 I’m currently learning Selenium, ReactJS and Angular
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with services such as custom PHP applications and Front-end Web development
 - 📫 How to reach me : https://www.linkedin.com/in/mouniajanah/
 
 <!---
